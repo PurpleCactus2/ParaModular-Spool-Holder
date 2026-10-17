@@ -1,0 +1,20 @@
+Name,Unit,Expression,Value,Comments,Favorite
+Spool_Diameter,mm,200 mm,200.00,Diameter of your spool,false
+Spool_Width,mm,67 mm,67.00,Full width of your spool,false
+Spool_RimWidth,mm,3.5 mm,3.50,Width of one of the rims of your spool,false
+Holder_Thickness,mm,10 mm,10.00,Thickness between the spool and outer wall of the holder (Recommended 10mm),false
+Holder_Height,mm,90 mm,90.00,Height of the holder from the bottom (Recommended Max: Spool Diameter / 2),false
+Lable_Width,mm,55 mm,55.00,Width of label (Recommended Max: Spool_Width - 1mm),false
+Label_Height,mm,45 mm,45.00,Height of Label (Recommended: Holder_Height / 2mm),false
+Label_Title,Text,"'PLA'",PLA,Title text for label,false
+Label_SubTitle,Text,"'190°C – 210°C'",190°C – 210°C,Subtitle text for label,false
+Label_TitleHeight,mm,15 mm,15.00,Height of title text on label,false
+Label_SubTitleHeight,mm,5 mm,5.00,Height of subtitle text on label,false
+Row_ArrayNumber,,1,1,Changes the amount of holders in one row. Adjust based on print bed size (Will not copy labels),false
+Holder_FilletSize,mm,25 mm,25.00,Changes the size of the fillet on the bottom of the holder,false
+Magnet_Diameter,mm,6 mm,6.00,Diameter of your magnets,false
+Magnet_Height,mm,3 mm,3.00,Height of your magnets,false
+Screw_ThreadWidth,mm,3 mm,3.00,"Width of the threads on your screws or simply the ""M"" number (eg. M3)",false
+Screw_HeadHeight,mm,2 mm,2.00,Height of the head of your screws,false
+Screw_ThreadLength,mm,8 mm,8.00,Length of the threads on your screws ,false
+Screw_HeadWidth,mm,5 mm,5.00,Width of the head of your screws,false
